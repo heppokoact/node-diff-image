@@ -9,7 +9,7 @@ function NewGoString(str: string) {
     return new GoString({ p: str, n: str.length });
 }
 
-const diffImage = ffi.Library(__dirname + '/diffImage', {
+const diffImage = ffi.Library(__dirname + '/../lib/diffImage', {
     diffImage: ['void', [GoString, GoString, GoString]],
 });
 

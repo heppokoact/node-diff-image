@@ -130,7 +130,7 @@
         "signature": "1377923021927244ea19433873b997ad8585533b0a56d5de29cda497f7842756"
       },
       "../src/index.ts": {
-        "version": "288938a47e74ad805a29e41cc687625d80b987c5042a47c0171773d9b7bdc98d",
+        "version": "66ba2e397d76644cee8603bed50caa93f578f9a280cb850da1db9746af207886",
         "signature": "d56cbc99f707ce535e7e0a520a892f22f39fff52200fab766254a3b521dafe2a"
       },
       "../node_modules/@types/color-name/index.d.ts": {
