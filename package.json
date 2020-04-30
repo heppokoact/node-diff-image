@@ -1,5 +1,5 @@
 {
-    "name": "whole-site-diff",
+    "name": "node-diff-image",
     "version": "0.1.0",
     "description": "",
     "main": "dist/index.js",
