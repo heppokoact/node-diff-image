@@ -12,7 +12,7 @@ const GoString = ref_struct_1.default({
 function NewGoString(str) {
     return new GoString({ p: str, n: str.length });
 }
-const diffImage = ffi_1.default.Library(__dirname + '/lib/diffImage', {
+const diffImage = ffi_1.default.Library(__dirname + '/../lib/diffImage', {
     diffImage: ['void', [GoString, GoString, GoString]],
 });
 exports.default = (before, after, result) => {
