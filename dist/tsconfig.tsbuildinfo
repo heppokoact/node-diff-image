@@ -129,9 +129,149 @@
         "version": "1377923021927244ea19433873b997ad8585533b0a56d5de29cda497f7842756",
         "signature": "1377923021927244ea19433873b997ad8585533b0a56d5de29cda497f7842756"
       },
+      "../node_modules/@jimp/core/types/jimp.d.ts": {
+        "version": "11e31384d7e5e16179c37c0382c80f3736fb7c51c1a258283925b42d5f58f24c",
+        "signature": "11e31384d7e5e16179c37c0382c80f3736fb7c51c1a258283925b42d5f58f24c"
+      },
+      "../node_modules/@jimp/core/types/etc.d.ts": {
+        "version": "81cba1ca948d7a158b75d9bf342955793576687c61930f9d87a331a968c820bc",
+        "signature": "81cba1ca948d7a158b75d9bf342955793576687c61930f9d87a331a968c820bc"
+      },
+      "../node_modules/@jimp/core/types/functions.d.ts": {
+        "version": "ac26e1df718b688cb69170ef4a10c4615796af3042dc4a2d533b295095052142",
+        "signature": "ac26e1df718b688cb69170ef4a10c4615796af3042dc4a2d533b295095052142"
+      },
+      "../node_modules/@jimp/core/types/utils.d.ts": {
+        "version": "e5435a253e31a74a5ba34cddd2983c2b6e7798be830cf9896656f3dd02d513a3",
+        "signature": "e5435a253e31a74a5ba34cddd2983c2b6e7798be830cf9896656f3dd02d513a3"
+      },
+      "../node_modules/@jimp/core/types/plugins.d.ts": {
+        "version": "c58c3df82dbbac85d6cbbfb6ece2a425c125db04ef0ceb3f034d33f6258a595b",
+        "signature": "c58c3df82dbbac85d6cbbfb6ece2a425c125db04ef0ceb3f034d33f6258a595b"
+      },
+      "../node_modules/@jimp/core/types/index.d.ts": {
+        "version": "107c1b5064b01db7a55616d09c5b6c278cd402c6afb82fcbf95fe28b48920d22",
+        "signature": "107c1b5064b01db7a55616d09c5b6c278cd402c6afb82fcbf95fe28b48920d22"
+      },
+      "../node_modules/@jimp/jpeg/index.d.ts": {
+        "version": "616293f491f8f8038be5cc29418493ba333e6e98820b0e85a6bf02a333667eb8",
+        "signature": "616293f491f8f8038be5cc29418493ba333e6e98820b0e85a6bf02a333667eb8"
+      },
+      "../node_modules/@jimp/png/index.d.ts": {
+        "version": "e32df6324918608e0d404ed125e7f2429a21315830f81d15a22958e53c3bbe97",
+        "signature": "e32df6324918608e0d404ed125e7f2429a21315830f81d15a22958e53c3bbe97"
+      },
+      "../node_modules/@jimp/bmp/index.d.ts": {
+        "version": "0f6dc41bab0e1f96f70f46d797644d0d32a491e34a390e3411f61ecbbef3159b",
+        "signature": "0f6dc41bab0e1f96f70f46d797644d0d32a491e34a390e3411f61ecbbef3159b"
+      },
+      "../node_modules/@jimp/tiff/index.d.ts": {
+        "version": "07d406e2b9185f08617234e5d1307789c202e99159f3aa1a13670df39589a2fe",
+        "signature": "07d406e2b9185f08617234e5d1307789c202e99159f3aa1a13670df39589a2fe"
+      },
+      "../node_modules/@jimp/gif/index.d.ts": {
+        "version": "6f690985c908fd2d566f694394016be3e757fb7094e1e3d8be8545813af0453f",
+        "signature": "6f690985c908fd2d566f694394016be3e757fb7094e1e3d8be8545813af0453f"
+      },
+      "../node_modules/@jimp/types/index.d.ts": {
+        "version": "cf34998d6c868eb5d814521523731767ceed7d00bddaf40f82f89ef861c411bf",
+        "signature": "cf34998d6c868eb5d814521523731767ceed7d00bddaf40f82f89ef861c411bf"
+      },
+      "../node_modules/@jimp/plugin-blit/index.d.ts": {
+        "version": "0298fb593e400ab7d61366fad5e84399f224bee4bb1cd3dc0cfaae0e2929c3d7",
+        "signature": "0298fb593e400ab7d61366fad5e84399f224bee4bb1cd3dc0cfaae0e2929c3d7"
+      },
+      "../node_modules/@jimp/plugin-blur/index.d.ts": {
+        "version": "6adab4f1c0c67ce871828183137449e443e17a4142529a32b22f189f3c737af6",
+        "signature": "6adab4f1c0c67ce871828183137449e443e17a4142529a32b22f189f3c737af6"
+      },
+      "../node_modules/@jimp/plugin-circle/index.d.ts": {
+        "version": "1be04a4005e2b7f5b2688e2d4de704ae68c9d95ebacc0367b8b5730bd8c50fb1",
+        "signature": "1be04a4005e2b7f5b2688e2d4de704ae68c9d95ebacc0367b8b5730bd8c50fb1"
+      },
+      "../node_modules/@jimp/plugin-color/index.d.ts": {
+        "version": "83c2f5af37e6d351b3d2f6824c8c0fe85361e2640035bef7c9e56a5dfeedcd35",
+        "signature": "83c2f5af37e6d351b3d2f6824c8c0fe85361e2640035bef7c9e56a5dfeedcd35"
+      },
+      "../node_modules/@jimp/plugin-contain/index.d.ts": {
+        "version": "101b82e4cc6bc4230c4c764ce8f28d0841a665c38f7c1a40981b2727ebc1bf3c",
+        "signature": "101b82e4cc6bc4230c4c764ce8f28d0841a665c38f7c1a40981b2727ebc1bf3c"
+      },
+      "../node_modules/@jimp/plugin-cover/index.d.ts": {
+        "version": "9c7efe7cc60262099e1f7bb4fbc6d0014df273c9049e744ffb484e6761a7e2ad",
+        "signature": "9c7efe7cc60262099e1f7bb4fbc6d0014df273c9049e744ffb484e6761a7e2ad"
+      },
+      "../node_modules/@jimp/plugin-crop/index.d.ts": {
+        "version": "c6162dc88ce4d91ebfceac7f709097485675c90ee4c816931d26754a54e19164",
+        "signature": "c6162dc88ce4d91ebfceac7f709097485675c90ee4c816931d26754a54e19164"
+      },
+      "../node_modules/@jimp/plugin-displace/index.d.ts": {
+        "version": "0634e12db1decbf3edc562dcf8e2b7f4affe4919a21005d6bea90aa9532612aa",
+        "signature": "0634e12db1decbf3edc562dcf8e2b7f4affe4919a21005d6bea90aa9532612aa"
+      },
+      "../node_modules/@jimp/plugin-dither/index.d.ts": {
+        "version": "3c464b3eecdf5cd990dcd882a04608f4ae29b99fc24ffbff970e340ac5d4eef1",
+        "signature": "3c464b3eecdf5cd990dcd882a04608f4ae29b99fc24ffbff970e340ac5d4eef1"
+      },
+      "../node_modules/@jimp/plugin-fisheye/index.d.ts": {
+        "version": "6daca098a3cf1585848a1464458143442ef8042470cb975ef7ab360afa7651b6",
+        "signature": "6daca098a3cf1585848a1464458143442ef8042470cb975ef7ab360afa7651b6"
+      },
+      "../node_modules/@jimp/plugin-flip/index.d.ts": {
+        "version": "c7b5b995bd17d27758d13f8d200d9748d8fcb5491dd5593a4e840e5abdd4e0c3",
+        "signature": "c7b5b995bd17d27758d13f8d200d9748d8fcb5491dd5593a4e840e5abdd4e0c3"
+      },
+      "../node_modules/@jimp/plugin-gaussian/index.d.ts": {
+        "version": "a8d4833b2b4896c44af60626a844a086c8120807cf2e6a39d2dc80ab5d1af972",
+        "signature": "a8d4833b2b4896c44af60626a844a086c8120807cf2e6a39d2dc80ab5d1af972"
+      },
+      "../node_modules/@jimp/plugin-invert/index.d.ts": {
+        "version": "40156b6e614fe0b0aa4af9c21a0157eb84758e572ae700788ff9d436fae78c2b",
+        "signature": "40156b6e614fe0b0aa4af9c21a0157eb84758e572ae700788ff9d436fae78c2b"
+      },
+      "../node_modules/@jimp/plugin-mask/index.d.ts": {
+        "version": "f0867230a5838be63be92c9480a65f1d075eec34683212e080002760a6174c83",
+        "signature": "f0867230a5838be63be92c9480a65f1d075eec34683212e080002760a6174c83"
+      },
+      "../node_modules/@jimp/plugin-normalize/index.d.ts": {
+        "version": "098d6936c459f18218ad71cde5aa25562a74461701c3551c544aecfd2c6226e7",
+        "signature": "098d6936c459f18218ad71cde5aa25562a74461701c3551c544aecfd2c6226e7"
+      },
+      "../node_modules/@jimp/plugin-print/index.d.ts": {
+        "version": "405dc951dda9d1ba88aa742a04541a749973bafa7873f1b49c3065a6dc05e170",
+        "signature": "405dc951dda9d1ba88aa742a04541a749973bafa7873f1b49c3065a6dc05e170"
+      },
+      "../node_modules/@jimp/plugin-resize/index.d.ts": {
+        "version": "fc9091f36b50dfc7e47b6183bd7b4294a20878e1d826f38f44e7053d403358ed",
+        "signature": "fc9091f36b50dfc7e47b6183bd7b4294a20878e1d826f38f44e7053d403358ed"
+      },
+      "../node_modules/@jimp/plugin-rotate/index.d.ts": {
+        "version": "4c846ba0a980408c10c12ed8358bcabdb8ca97aee0bb8869becaea412d6e89bb",
+        "signature": "4c846ba0a980408c10c12ed8358bcabdb8ca97aee0bb8869becaea412d6e89bb"
+      },
+      "../node_modules/@jimp/plugin-scale/index.d.ts": {
+        "version": "ed995ca53b2c1b6bc1555bbee8bc12ea290b2117d89dc1c27c1333f8c3a97d35",
+        "signature": "ed995ca53b2c1b6bc1555bbee8bc12ea290b2117d89dc1c27c1333f8c3a97d35"
+      },
+      "../node_modules/@jimp/plugin-shadow/index.d.ts": {
+        "version": "26a8c45aaa7c9b7cb356b565f880295b5a94b14f0c348b41dd776cbeab9f06e1",
+        "signature": "26a8c45aaa7c9b7cb356b565f880295b5a94b14f0c348b41dd776cbeab9f06e1"
+      },
+      "../node_modules/@jimp/plugin-threshold/index.d.ts": {
+        "version": "a18ab8a8420f372aab81c57e9eb3b0c29a8a7760eab40328765d65a3d2dff5ac",
+        "signature": "a18ab8a8420f372aab81c57e9eb3b0c29a8a7760eab40328765d65a3d2dff5ac"
+      },
+      "../node_modules/@jimp/plugins/index.d.ts": {
+        "version": "15465dcb7504e00902baf1c1bf1195c35a20612a300fcd8482836c9319af2d1b",
+        "signature": "15465dcb7504e00902baf1c1bf1195c35a20612a300fcd8482836c9319af2d1b"
+      },
+      "../node_modules/jimp/types/ts3.1/index.d.ts": {
+        "version": "762539fa7b805a2ca94de8b9587db0dfe12ae440848678d028707b70f31acced",
+        "signature": "762539fa7b805a2ca94de8b9587db0dfe12ae440848678d028707b70f31acced"
+      },
       "../src/index.ts": {
-        "version": "26abcfaba0a65ab56633128d0164d5cf23afd3434f8e9497881178f2ed36b262",
-        "signature": "d56cbc99f707ce535e7e0a520a892f22f39fff52200fab766254a3b521dafe2a"
+        "version": "61cfbe5687ce1011f52a5f228258701ef02f09bf0abf6fa950fc0ca57c9f1448",
+        "signature": "e72a4a6be55d6970e81188b7d379ff8e9fff700bd668712898a5a93dbb609522"
       },
       "../node_modules/@types/color-name/index.d.ts": {
         "version": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e",
@@ -565,7 +705,284 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "../node_modules/@jimp/core/types/jimp.d.ts": [
+        "../node_modules/@jimp/core/types/etc.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/core/types/etc.d.ts": [
+        "../node_modules/@jimp/core/types/jimp.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/core/types/functions.d.ts": [
+        "../node_modules/@jimp/core/types/jimp.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/core/types/utils.d.ts": [
+        "../node_modules/@jimp/core/types/plugins.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/core/types/plugins.d.ts": [
+        "../node_modules/@jimp/core/types/etc.d.ts",
+        "../node_modules/@jimp/core/types/utils.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/core/types/index.d.ts": [
+        "../node_modules/@jimp/core/types/etc.d.ts",
+        "../node_modules/@jimp/core/types/functions.d.ts",
+        "../node_modules/@jimp/core/types/plugins.d.ts",
+        "../node_modules/@jimp/core/types/utils.d.ts",
+        "../node_modules/@jimp/core/types/jimp.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/jpeg/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/png/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/bmp/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/tiff/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/gif/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/types/index.d.ts": [
+        "../node_modules/@jimp/jpeg/index.d.ts",
+        "../node_modules/@jimp/png/index.d.ts",
+        "../node_modules/@jimp/bmp/index.d.ts",
+        "../node_modules/@jimp/tiff/index.d.ts",
+        "../node_modules/@jimp/gif/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-blit/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-blur/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-circle/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-color/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-contain/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-cover/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-crop/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-displace/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-dither/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-fisheye/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-flip/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-gaussian/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-invert/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-mask/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-normalize/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-print/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-resize/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-rotate/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-scale/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-shadow/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-threshold/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugins/index.d.ts": [
+        "../node_modules/@jimp/plugin-blit/index.d.ts",
+        "../node_modules/@jimp/plugin-blur/index.d.ts",
+        "../node_modules/@jimp/plugin-circle/index.d.ts",
+        "../node_modules/@jimp/plugin-color/index.d.ts",
+        "../node_modules/@jimp/plugin-contain/index.d.ts",
+        "../node_modules/@jimp/plugin-cover/index.d.ts",
+        "../node_modules/@jimp/plugin-crop/index.d.ts",
+        "../node_modules/@jimp/plugin-displace/index.d.ts",
+        "../node_modules/@jimp/plugin-dither/index.d.ts",
+        "../node_modules/@jimp/plugin-fisheye/index.d.ts",
+        "../node_modules/@jimp/plugin-flip/index.d.ts",
+        "../node_modules/@jimp/plugin-gaussian/index.d.ts",
+        "../node_modules/@jimp/plugin-invert/index.d.ts",
+        "../node_modules/@jimp/plugin-mask/index.d.ts",
+        "../node_modules/@jimp/plugin-normalize/index.d.ts",
+        "../node_modules/@jimp/plugin-print/index.d.ts",
+        "../node_modules/@jimp/plugin-resize/index.d.ts",
+        "../node_modules/@jimp/plugin-rotate/index.d.ts",
+        "../node_modules/@jimp/plugin-scale/index.d.ts",
+        "../node_modules/@jimp/plugin-shadow/index.d.ts",
+        "../node_modules/@jimp/plugin-threshold/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/jimp/types/ts3.1/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@jimp/types/index.d.ts",
+        "../node_modules/@jimp/plugins/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "../src/index.ts": [
+        "../node_modules/jimp/types/ts3.1/index.d.ts",
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
@@ -1186,6 +1603,285 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "../node_modules/@jimp/core/types/jimp.d.ts": [
+        "../node_modules/@jimp/core/types/etc.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/core/types/index.d.ts": [
+        "../node_modules/@jimp/core/types/etc.d.ts",
+        "../node_modules/@jimp/core/types/functions.d.ts",
+        "../node_modules/@jimp/core/types/plugins.d.ts",
+        "../node_modules/@jimp/core/types/utils.d.ts",
+        "../node_modules/@jimp/core/types/jimp.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/jimp/types/ts3.1/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@jimp/types/index.d.ts",
+        "../node_modules/@jimp/plugins/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../src/index.ts": [
+        "../node_modules/jimp/types/ts3.1/index.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-threshold/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugins/index.d.ts": [
+        "../node_modules/@jimp/plugin-blit/index.d.ts",
+        "../node_modules/@jimp/plugin-blur/index.d.ts",
+        "../node_modules/@jimp/plugin-circle/index.d.ts",
+        "../node_modules/@jimp/plugin-color/index.d.ts",
+        "../node_modules/@jimp/plugin-contain/index.d.ts",
+        "../node_modules/@jimp/plugin-cover/index.d.ts",
+        "../node_modules/@jimp/plugin-crop/index.d.ts",
+        "../node_modules/@jimp/plugin-displace/index.d.ts",
+        "../node_modules/@jimp/plugin-dither/index.d.ts",
+        "../node_modules/@jimp/plugin-fisheye/index.d.ts",
+        "../node_modules/@jimp/plugin-flip/index.d.ts",
+        "../node_modules/@jimp/plugin-gaussian/index.d.ts",
+        "../node_modules/@jimp/plugin-invert/index.d.ts",
+        "../node_modules/@jimp/plugin-mask/index.d.ts",
+        "../node_modules/@jimp/plugin-normalize/index.d.ts",
+        "../node_modules/@jimp/plugin-print/index.d.ts",
+        "../node_modules/@jimp/plugin-resize/index.d.ts",
+        "../node_modules/@jimp/plugin-rotate/index.d.ts",
+        "../node_modules/@jimp/plugin-scale/index.d.ts",
+        "../node_modules/@jimp/plugin-shadow/index.d.ts",
+        "../node_modules/@jimp/plugin-threshold/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-shadow/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-scale/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-rotate/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-resize/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-print/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-normalize/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-mask/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-invert/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-gaussian/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-flip/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-fisheye/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-dither/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-displace/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-crop/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-cover/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-contain/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-color/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-circle/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-blur/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/plugin-blit/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/gif/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/types/index.d.ts": [
+        "../node_modules/@jimp/jpeg/index.d.ts",
+        "../node_modules/@jimp/png/index.d.ts",
+        "../node_modules/@jimp/bmp/index.d.ts",
+        "../node_modules/@jimp/tiff/index.d.ts",
+        "../node_modules/@jimp/gif/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/tiff/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/bmp/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/png/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/jpeg/index.d.ts": [
+        "../node_modules/@jimp/core/types/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/core/types/functions.d.ts": [
+        "../node_modules/@jimp/core/types/jimp.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/core/types/etc.d.ts": [
+        "../node_modules/@jimp/core/types/jimp.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/core/types/plugins.d.ts": [
+        "../node_modules/@jimp/core/types/etc.d.ts",
+        "../node_modules/@jimp/core/types/utils.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@jimp/core/types/utils.d.ts": [
+        "../node_modules/@jimp/core/types/plugins.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "../node_modules/@types/color-name/index.d.ts": [
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
@@ -1609,6 +2305,41 @@
       ]
     },
     "semanticDiagnosticsPerFile": [
+      "../node_modules/@jimp/core/types/jimp.d.ts",
+      "../node_modules/@jimp/core/types/etc.d.ts",
+      "../node_modules/@jimp/core/types/functions.d.ts",
+      "../node_modules/@jimp/core/types/utils.d.ts",
+      "../node_modules/@jimp/core/types/plugins.d.ts",
+      "../node_modules/@jimp/core/types/index.d.ts",
+      "../node_modules/@jimp/jpeg/index.d.ts",
+      "../node_modules/@jimp/png/index.d.ts",
+      "../node_modules/@jimp/bmp/index.d.ts",
+      "../node_modules/@jimp/tiff/index.d.ts",
+      "../node_modules/@jimp/gif/index.d.ts",
+      "../node_modules/@jimp/types/index.d.ts",
+      "../node_modules/@jimp/plugin-blit/index.d.ts",
+      "../node_modules/@jimp/plugin-blur/index.d.ts",
+      "../node_modules/@jimp/plugin-circle/index.d.ts",
+      "../node_modules/@jimp/plugin-color/index.d.ts",
+      "../node_modules/@jimp/plugin-contain/index.d.ts",
+      "../node_modules/@jimp/plugin-cover/index.d.ts",
+      "../node_modules/@jimp/plugin-crop/index.d.ts",
+      "../node_modules/@jimp/plugin-displace/index.d.ts",
+      "../node_modules/@jimp/plugin-dither/index.d.ts",
+      "../node_modules/@jimp/plugin-fisheye/index.d.ts",
+      "../node_modules/@jimp/plugin-flip/index.d.ts",
+      "../node_modules/@jimp/plugin-gaussian/index.d.ts",
+      "../node_modules/@jimp/plugin-invert/index.d.ts",
+      "../node_modules/@jimp/plugin-mask/index.d.ts",
+      "../node_modules/@jimp/plugin-normalize/index.d.ts",
+      "../node_modules/@jimp/plugin-print/index.d.ts",
+      "../node_modules/@jimp/plugin-resize/index.d.ts",
+      "../node_modules/@jimp/plugin-rotate/index.d.ts",
+      "../node_modules/@jimp/plugin-scale/index.d.ts",
+      "../node_modules/@jimp/plugin-shadow/index.d.ts",
+      "../node_modules/@jimp/plugin-threshold/index.d.ts",
+      "../node_modules/@jimp/plugins/index.d.ts",
+      "../node_modules/jimp/types/ts3.1/index.d.ts",
       "../src/index.ts",
       "../node_modules/@types/color-name/index.d.ts",
       "../node_modules/@types/eslint-visitor-keys/index.d.ts",
